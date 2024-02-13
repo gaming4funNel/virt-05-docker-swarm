@@ -27,6 +27,9 @@
 ```
 docker node ls
 ```
+
+![docker](https://github.com/gaming4funNel/virt-05-docker-swarm/blob/main/img/swarm1.png)
+
 5. (необязательное задание *). Задеплойте ваш python-fork из предыдущего ДЗ в получившийся кластер.
 6. Удалите стенд.
 
